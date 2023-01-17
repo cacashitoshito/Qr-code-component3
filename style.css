@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.attribution { 
+    font-size: 11px;
+     text-align: center;
+     position: relative;
+     bottom: 90px;
+     
+    
+     
+}
+    
+
+
+
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    
+     
+    }
+
+    .top-container{
+        background-color:whitesmoke;
+        width: 30%;
+        text-align: center;
+        margin: 100px auto;
+         border-radius: 5%;
+    }
+    .barcode-image{
+        width: 90%;
+        margin-top: 20px;
+        border-radius: 5%;
+    }
+    p{
+        color:slategray;
+        padding-bottom: 30px;
+        font-size: 14px;
+        
+    }
+    .top{
+        background-color: gray;
+        padding-top: 20px;
+       
+    }
+    h3{
+        color: rgb(17, 27, 46);
+    }
